@@ -73,8 +73,8 @@ To run the project:
    ```bash
    git clone https://github.com/alinababer/robotic-path-tracking-with-q-learning-and-sarsa.git
 2. Navigate to the project directory:
-cd robotic-path-tracking-with-q-learning-and-sarsa
+   cd robotic-path-tracking-with-q-learning-and-sarsa
 3. Run the Q-Learning algorithm:
-python run_agent.py --algorithm q-learning
+   python run_agent.py --algorithm q-learning
 4. Run the SARSA algorithm:
-python run_agent.py --algorithm sarsa
+   python run_agent.py --algorithm sarsa
